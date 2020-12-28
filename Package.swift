@@ -11,7 +11,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Heap",
-            url: "http://localhost:8080/HeapFramework.xcframework.zip",
+            url: "https://github.com/jerryhjones/HeapSPMTest/raw/master/HeapFramework.xcframework.zip",
             checksum: "cd6a8cca48f55a92d6d5262e7c43a4b91d73f167ceb156097d19f0f584b4f71b")
     ]
 )
